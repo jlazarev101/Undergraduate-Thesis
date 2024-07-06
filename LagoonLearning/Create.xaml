@@ -1,0 +1,138 @@
+﻿<Window x:Class="LagoonLearning.Create"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LagoonLearning"
+        mc:Ignorable="d"
+        Title="Create" Height="539" Width="612" ResizeMode="NoResize" WindowStyle="None" SizeToContent="Manual" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <Canvas.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#2783B2"/>
+                <GradientStop Color="#FEE6A6" Offset="1"/>
+            </LinearGradientBrush>
+        </Canvas.Background>
+        <Menu Height="20" Width="613" OpacityMask="#FF3737BA" Foreground="#FF141C3F" Background="#FFC6E4F5" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"></DockPanel>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem x:Name="Home" Header="Home" FontFamily="MV Boli" FontWeight="Bold" Click="MenuHome_Click"></MenuItem>
+            <MenuItem Header="Flashcards" FontFamily="MV Boli" FontWeight="Bold">
+                <MenuItem x:Name="CreateB" Header="Create" IsEnabled="False"></MenuItem>
+                <MenuItem x:Name="Study" Header="Study" Click="MenuStudy_Click"></MenuItem>
+                <MenuItem x:Name="Test" Header="Test" Click="MenuTest_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Other" FontFamily="MV Boli" FontWeight="Bold">
+                <MenuItem x:Name="Statistics" Header="Statistics" Click="MenuStat_Click"></MenuItem>
+                <MenuItem x:Name="Public" Header="Publications" Click="MenuPub_Click"></MenuItem>
+                <MenuItem x:Name="Share" Header="Share" Click="MenuShare_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Exit" FontFamily="MV Boli" FontWeight="Bold" Click="MenuExit_Click" HorizontalAlignment="Right"></MenuItem>
+        </Menu>
+        <Grid Height="326" Canvas.Left="25" Canvas.Top="100" Width="562">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="25"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="1" BorderThickness="1" Grid.RowSpan="4" Margin="0,-34,0,-10" Background="#70FFFFFF" CornerRadius="25">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="14"/>
+                        <ColumnDefinition Width="314*"/>
+                        <ColumnDefinition Width="1"/>
+                        <ColumnDefinition Width="auto" MinWidth="23"/>
+                        <ColumnDefinition Width="6"/>
+                        <ColumnDefinition Width="185*"/>
+                        <ColumnDefinition Width="17"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="15"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="15"/>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="25"/>
+                    </Grid.RowDefinitions>
+
+                    <Border Background="#FFC6E4F5" Grid.ColumnSpan="7" Grid.RowSpan="4" Margin="0,0,0,25" CornerRadius="25,25,0,0"/>
+
+                    <Grid Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="5" Margin="0,0,0,15" Grid.RowSpan="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock FontSize="24" FontFamily="MV Boli" Margin="0,0,10,0" Text="Set Name:"/>
+                        <TextBox x:Name="setNameText" FontSize="22" FontFamily="MVBoli" Grid.Column="1"/>
+                    </Grid>
+
+                    <Grid Grid.Column="1" Grid.Row="4">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="43*"/>
+                                <ColumnDefinition Width="271*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Text="Term:" FontFamily="MV Boli" Margin="0,0,10,0"/>
+                            <TextBox x:Name="questTxt" Grid.ColumnSpan="2" Margin="43,-6,0,0" Height="25" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe UI"/>
+                        </Grid>
+
+                        <TextBlock Grid.Row="2" Text="Definition:" FontFamily="MV Boli" Margin="0,10,0,177" Grid.RowSpan="3"/>
+                        <TextBox x:Name="answerTxt" Grid.Row="4" AcceptsReturn="True" TextWrapping="Wrap" Margin="0,23,0,58" Height="140.33" Width="314"/>
+                        <Button x:Name="addToSetButton" Grid.Row="4" Content="Add To Set" Click="AddFlashcardToSetBtn_Click" FontFamily="MV Boli" Background="#FFDECC8F" Margin="0,169,0,29" Height="23.3366666666667"/>
+                        <Button Content="Empty Text Boxes" HorizontalAlignment="Center" Margin="0,197,0,0" Grid.Row="4" VerticalAlignment="Top" FontFamily="MV Boli" Width="314" Background="#FFDECC8F" Click="ClearBtn_Click"/>
+
+                    </Grid>
+
+                    <StackPanel HorizontalAlignment="Center" Grid.Column="3" Grid.Row="4" Orientation="Horizontal" Width="4">
+                        <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" Background="#FF6F6F6F" />
+                    </StackPanel>
+
+                    <Grid Grid.Column="5" Grid.Row="4">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Text="Flashcards in Set:" FontFamily="MV Boli"/>
+                        <ListBox x:Name="flashcardsStackListBox" Margin="0,19,0,10" Grid.RowSpan="2" SelectionChanged="flashcardSetList_SelectionChange" Height="198"/>
+                        <Button x:Name="removeSelectedFlashcardBtn" Grid.Row="2" Content="Remove Selected Flashcard" Click="RemoveSelectedFlashcardBtn_Click" FontFamily="MV Boli" Background="#FFDECC8F"/>
+                    </Grid>
+                </Grid>
+            </Border>
+
+            <Button x:Name="saveFlashcardSetBtn" Grid.Row="4" Content="Save Flashcard Set" HorizontalAlignment="Center" Height="50" Width="200" Click="SaveFlashcardSetBtn_Click" Margin="0,55,0,-80" FontFamily="MV Boli" FontSize="16" Background="#FFC6E4F5"/>
+        </Grid>
+        <Image x:Name="Backarrow" Source="/Images/backarrow.png" Stretch="Uniform" Height="40" Width="40" Canvas.Top="402" Canvas.Left="-50" RenderTransformOrigin="0.431,0.545" MouseUp="GoToBack" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="75" Y="75"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Canvas>
+</Window>
