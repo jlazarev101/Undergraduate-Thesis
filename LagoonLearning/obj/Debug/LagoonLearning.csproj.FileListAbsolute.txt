@@ -1,0 +1,158 @@
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Index.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Registration.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning_Content.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.lref
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\MyData.mdf
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\MyData_log.ldf
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\LagoonLearning.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\LagoonLearning.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Index.baml
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\MainWindow.baml
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Registration.baml
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.g.resources
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\LagoonLearning.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Create.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Share.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Create.baml
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Share.baml
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Study.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\LagoonLearning\obj\Debug\Study.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\MyData.mdf
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\MyData_log.ldf
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.exe.config
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.exe.config
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.exe.config
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Create.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Index.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\MainWindow.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Registration.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Share.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Study.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\App.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_Content.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.lref
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Create.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Index.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\MainWindow.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Registration.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Share.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Study.baml
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.g.resources
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.Properties.Resources.resources
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.CopyComplete
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Public.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\LagoonLearning\obj\Debug\Public.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\MyData.mdf
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\MyData_log.ldf
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\LagoonLearning.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Create.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Index.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Public.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Registration.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Share.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Study.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_Content.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.lref
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Create.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Index.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\MainWindow.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Public.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Registration.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Share.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Study.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.g.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\LagoonLearning.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Test.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Test.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Stats.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\LagoonLearning\obj\Debug\Stats.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\MyData.mdf
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\MyData_log.ldf
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\LagoonLearning.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\LagoonLearning.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Create.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Index.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Public.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Registration.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Share.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Stats.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Study.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Test.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning_Content.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning_MarkupCompile.lref
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Create.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Index.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\MainWindow.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Public.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Registration.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Share.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Stats.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Study.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\Test.baml
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.g.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\LagoonLearning\obj\Debug\LagoonLearning.pdb
