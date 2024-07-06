@@ -1,0 +1,64 @@
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\Artifact\LagoonLearning\BIZ\obj\Debug\BIZ.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.exe.config
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\DAL.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\DAL.pdb
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\bin\Debug\DAL.exe.config
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\App.g.cs
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ_MarkupCompile.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.Properties.Resources.resources
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.exe
+C:\Users\justi\OneDrive - Dublin Business School (DBS)\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearning - Copy\BIZ\obj\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\BIZ.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\BIZ.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\DAL.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\DAL.pdb
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\bin\Debug\DAL.exe.config
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\App.g.cs
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ_MarkupCompile.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.Properties.Resources.resources
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.csproj.GenerateResource.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.exe
+C:\Users\justi\Documents\College 4th Year\Project\LagoonLearn_JustinLazarev_10567499\BIZ\obj\Debug\BIZ.pdb
